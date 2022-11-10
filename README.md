@@ -1,5 +1,4 @@
-# Exercise 06 Mitarbeiterverwaltung 
-### Deadline 28.03.2022
+# Exercise Mitarbeiterverwaltung 
 
 Program some cool stuff
 
